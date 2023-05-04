@@ -1,0 +1,129 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_5.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_4.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP3.Ej_2.main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP3.Ej_2.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP3.Ej_1.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP3.Ej_1.main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP3.Ej_1.main",
+            "projectName": "Prog3_(2023)_663c1f06"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP3.Ej_1.main",
+            "projectName": "Prog3_(2023)_3e83a134"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_4.Main",
+            "projectName": "Prog3_(2023)_3e83a134"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_5.Main",
+            "projectName": "Prog3_(2023)_663c1f06"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_5.Main",
+            "projectName": "Prog3_(2023)_3e83a134"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_1.Main",
+            "projectName": "Prog3_(2023)_3e83a134"
+        },
+        {
+            "type": "java",
+            "name": "TreePlus",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_2.TreePlus",
+            "projectName": "Prog3_(2023)_3e83a134"
+        },
+        {
+            "type": "java",
+            "name": "TreePlus",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_2.TreePlus",
+            "projectName": "Prog3_(2023)_663c1f06"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_1.Main",
+            "projectName": "Prog3_(2023)_663c1f06"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_1.Main",
+            "projectName": "Prog3(2023)_8d37913d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2_1.Ej_1.Main",
+            "projectName": "Prog3(2023)"
+        },
+        {
+            "type": "java",
+            "name": "Launch current file",
+            "request": "launch",
+            "mainClass": "${fileBasename}"
+        }
+    ]
+}
