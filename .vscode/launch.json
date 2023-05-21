@@ -4,6 +4,55 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "TP4.Ej_6.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_6.main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "AtilaHorse",
+            "request": "launch",
+            "mainClass": "TP4.Ej_6.AtilaHorse",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "AtilaHorse",
+            "request": "launch",
+            "mainClass": "TP4.Ej_6.AtilaHorse",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "ProcessorDistribution",
+            "request": "launch",
+            "mainClass": "TP4.Ej_5.ProcessorDistribution",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_4.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_4.main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "TP4.Ej_3.main",
             "projectName": "Prog3-(2023)_11448c54"
         },
