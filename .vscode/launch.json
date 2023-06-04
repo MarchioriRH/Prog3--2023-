@@ -2,6 +2,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Ej_4.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "DijkstraAlgorithm",
+            "request": "launch",
+            "mainClass": "TP5.Ej_4.DijkstraAlgorithm",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Ej_3.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Ej_2.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Ej_1.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_9.Main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_7.main",
+            "projectName": "Prog3-(2023)_2bb58573"
+        },
+        {
+            "type": "java",
+            "name": "PyramidSolver",
+            "request": "launch",
+            "mainClass": "TP4.Ej_8.PyramidSolver",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_8.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "PyramidSolver",
+            "request": "launch",
+            "mainClass": "TP4.E_8.PyramidSolver",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_7.main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "pruebaMagicBoard",
+            "request": "launch",
+            "mainClass": "TP4.Ej_7.pruebaMagicBoard",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "pruebaMagicBoard",
+            "request": "launch",
+            "mainClass": "TP4.Ej_7.pruebaMagicBoard",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_7.main",
+            "projectName": "Prog3-(2023)_8d0faeb9"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_7.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "TP4.Ej_6.main",
