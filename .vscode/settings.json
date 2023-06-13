@@ -1,9 +1,10 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Program Files\\Java\\jdk-19\\lib\\jrt-fs.jar"
+        "lib/**/*.jar"
     ],
     "launch": {
 
@@ -11,5 +12,9 @@
         "compounds": [],
         
     },
+    "java.configuration.runtimes": [
+        
+
+    ],
     
 }
