@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP2.Ej_2.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Ej_4.Main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Ej_2.Main",
+            "projectName": "Prog3-(2023)_11448c54"
+        },
+        {
+            "type": "java",
+            "name": "SalasWay",
+            "request": "launch",
+            "mainClass": "TP4.Ej_1.SalasWay",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "EjGrafo",
+            "request": "launch",
+            "mainClass": "Parcial.EjGrafo",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TP4.Ej_3.main",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
+            "name": "PrimAlgorithm",
+            "request": "launch",
+            "mainClass": "TP5.Prim.PrimAlgorithm",
+            "projectName": "Prog3-(2023)_e98c0e82"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "TP2_1.Ej_1.Main",
